@@ -743,7 +743,7 @@ details.faq p{font-size:.94rem}
     var atual=-1;
     secs.forEach(function(s,i){ if(s && s.getBoundingClientRect().top<140) atual=i; });
     links.forEach(function(a,i){
-      var on=i===atual; if(on!==a.classList.contains('ativo')){a.classList.toggle('ativo',on); if(on) a.scrollIntoView({block:'nearest',inline:'center'});}
+      var on=i===atual; if(on!==a.classList.contains('ativo')){a.classList.toggle('ativo',on); if(on){var nav=a.parentNode; nav.scrollLeft=a.offsetLeft-(nav.clientWidth-a.offsetWidth)/2;}}
     });
   }
   window.addEventListener('scroll',onScroll,{passive:true}); onScroll();
