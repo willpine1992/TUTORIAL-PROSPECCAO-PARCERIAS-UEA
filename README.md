@@ -8,8 +8,9 @@ Tutorial em formato de revista para coordenações de PPG: como usar o painel de
 |---|---|---|
 | Edição nº 1 · Painéis de Convênios (Gestão, Matchs, ODS e Impactos) | https://willpine1992.github.io/TUTORIAL-PAINEIS-CONVENIOS-UEA/ | https://willpine1992.github.io/TUTORIAL-PAINEIS-CONVENIOS-UEA/Tutorial_Paineis_Convenios_UEA.pdf |
 | Edição nº 2 · Prospecção de Parcerias (FAAP) | https://willpine1992.github.io/TUTORIAL-PROSPECCAO-PARCERIAS-UEA/ | https://willpine1992.github.io/TUTORIAL-PROSPECCAO-PARCERIAS-UEA/Tutorial_Prospeccao_Parcerias_UEA.pdf |
+| Edição nº 3 · Mobilidade Acadêmica Internacional | https://willpine1992.github.io/TUTORIAL-MOBILIDADE-ACADEMICA-UEA/ | https://willpine1992.github.io/TUTORIAL-MOBILIDADE-ACADEMICA-UEA/Tutorial_Mobilidade_Academica_UEA.pdf |
 
-Repositórios: [TUTORIAL-PAINEIS-CONVENIOS-UEA](https://github.com/willpine1992/TUTORIAL-PAINEIS-CONVENIOS-UEA) · [TUTORIAL-PROSPECCAO-PARCERIAS-UEA](https://github.com/willpine1992/TUTORIAL-PROSPECCAO-PARCERIAS-UEA)
+Repositórios: [TUTORIAL-PAINEIS-CONVENIOS-UEA](https://github.com/willpine1992/TUTORIAL-PAINEIS-CONVENIOS-UEA) · [TUTORIAL-PROSPECCAO-PARCERIAS-UEA](https://github.com/willpine1992/TUTORIAL-PROSPECCAO-PARCERIAS-UEA) · [TUTORIAL-MOBILIDADE-ACADEMICA-UEA](https://github.com/willpine1992/TUTORIAL-MOBILIDADE-ACADEMICA-UEA)
 
 ## Como atualizar
 
